@@ -1,7 +1,7 @@
 {
-  "name": "red-webapp",
+  "name": "bpr_webapp",
   "version": "1.0.0",
-  "description": "A webapp wrapper for running node-red in an Azure Web App",
+  "description": "A wrapper for BPR Web App",
   "main": "server.js",
   "dependencies": {
     "node-red": "^1.2.6",
