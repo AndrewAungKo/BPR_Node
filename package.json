@@ -13,7 +13,8 @@
     "node-red-contrib-modbus": "^5.13.3",
     "node-red-contrib-mssql-plus": "^0.6.2",
     "node-red-contrib-ui-led": "^0.3.3",
-    "node-red-dashboard": "^2.26.1"
+    "node-red-dashboard": "^2.26.1",
+    "node-red-node-mongodb": "^0.2.5"
   },
   "devDependencies": {},
   "scripts": {
